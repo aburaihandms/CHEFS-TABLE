@@ -1,0 +1,38 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Curry",
+      "short_description": "A delicious and spicy chicken curry.",
+      "ingredients": ["550g chicken", "120ml coconut milk", "200g onions", "3 cloves garlic", "2 tbsp curry powder", "Salt to taste"],
+      "preparing_time": "45 min",
+      "calories": "380 calories",
+      "image": "../public/Chicken Curry.jpeg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Pasta",
+      "short_description": "A simple and tasty pasta dish loaded with veggies.",
+      "ingredients": ["300g pasta", "1 bell pepper", "1 zucchini", "1 carrot", "2 tomatoes", "1/2 cup tomato sauce", "2 cloves garlic"],
+      "preparing_time": "30 min",
+      "calories": "320 calories",
+      "image": "../public/Vegetable Pasta.png"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Chocolate Cake",
+      "short_description": "A rich and moist chocolate cake perfect for any occasion.",
+      "ingredients": ["200g all-purpose flour", "200g sugar", "100g cocoa powder", "2 eggs", "200ml milk", "150g butter", "1 tsp vanilla extract"],
+      "preparing_time": "60 min",
+      "calories": "450 calories",
+      "image": "../public/Chocolate Cake.jpeg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A rich and moist chocolate cake perfect for any occasion.",
+      "ingredients": ["200g all-purpose flour", "200g sugar", "100g cocoa powder", "2 eggs", "200ml milk", "150g butter", "1 tsp vanilla extract"],
+      "preparing_time": "60 min",
+      "calories": "450 calories",
+      "image": "../public/Spaghetti Bolognese.png"
+    }
+  ]
